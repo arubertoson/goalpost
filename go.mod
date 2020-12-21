@@ -1,4 +1,4 @@
-module github.com/chiefnoah/goalpost
+module github.com/arubertoson/goalpost
 
 go 1.13
 
